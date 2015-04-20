@@ -1,11 +1,11 @@
 {
-    "name": "mmanos/laravel-billing",
-    "description": "A billing package for Laravel 4.",
+    "name": "SAIBA0011/biller",
+    "description": "A billing package for Laravel 5.",
     "keywords": ["laravel", "billing", "stripe", "braintree", "cashier", "payments", "subscriptions", "charges"],
     "authors": [
         {
-            "name": "Mark Manos",
-            "email": "mark@airpac.com"
+            "name": "Gerhard",
+            "email": "john@example.com"
         }
     ],
     "require": {
